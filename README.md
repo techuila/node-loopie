@@ -13,6 +13,17 @@ Install with [npm](https://www.npmjs.com/):
 $ npm install --save node-loopie
 ```
 
+### Usage
+
+**Arguments**
+
+`nl(folder_path, callback, ignore_file_names, extension_name)`
+
+- `folder_path (required)` : [String] folder path of the files you want to loop.
+- `callback` : [Function] function to be executed. passes 3 arguments: `file` (String), `filename` (String), `file` (File).
+- `ignore_file_names` : [Array (String)] array of file names to be ignored in a folder.
+- `extension_name` extension name of the files you want to loop from.
+
 ## Examples
 
 ### Sequelize (index.js)
