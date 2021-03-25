@@ -29,7 +29,7 @@ $ npm install --save node-loopie
 ### Sequelize (index.js)
 
 ```js
-const Looper = require('node-loopie');
+const Loopie = require('node-loopie');
 const path = require('path');
 const Sequelize = require('sequelize');
 const env = NODE_ENV || 'localhost';
@@ -49,7 +49,7 @@ if (config.use_env_variable) {
 }
 
 // Get all the filename inside the models folder
-Looper(__dirname, (file) => {
+Loopie(__dirname, (file) => {
 	const model = require(path.join(__dirname, file))(
 		sequelize,
 		Sequelize.DataTypes
@@ -73,9 +73,10 @@ module.exports = db;
 
 ```js
 const express = require('express');
+const Loopie = require('node-loopie');
 const app = express();
 
-Looper(__dirname, (file, fileName) => {
+Loopie(__dirname, (file, fileName) => {
 	app.use(`/api/${fileName}`, require(path.join(__dirname, file)));
 });
 ```
