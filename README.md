@@ -76,10 +76,7 @@ const express = require('express');
 const app = express();
 
 Looper(__dirname, (file, fileName) => {
-	app.use(
-		`/api/${fileName}`,
-		require(path.join(__dirname, file))(this.express.Router(), rw)
-	);
+	app.use(`/api/${fileName}`, require(path.join(__dirname, file)));
 });
 ```
 
