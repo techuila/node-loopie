@@ -3,7 +3,7 @@
 Reduce your code with node-loopie. Routes declaration, models, and etc... node-loopie will shorten it for you.
 Converts your nodejs files in a folder to an object.
 
-- **Declarative:** node-loopie helps you shorten your code, you don't declare multiple objects to export your object. It makes recognition of objects easier with just looking at your file names.
+- **Declarative:** node-loopie helps you shorten your code, you don't have to declare multiple properties to export your object or even initialize function(s). It makes recognition of objects easier with just looking at your file names.
 
 ## Installation
 
@@ -22,7 +22,7 @@ const Looper = require('node-loopie');
 const path = require('path');
 const Sequelize = require('sequelize');
 const env = NODE_ENV || 'localhost';
-const config = require(__dirname + '/../config/config.js')[env];
+const config = require('/../config/config.js')[env];
 const db = {};
 
 let sequelize;
