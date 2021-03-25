@@ -11,3 +11,16 @@ Install with [npm](https://www.npmjs.com/):
 ```sh
 $ npm install --save node-loopie
 ```
+
+### Author
+
+**Axl Cuyugan**
+
+- [github/techuila](https://github.com/jonschlinkert)
+- [twitter/Techuila\_\_](https://twitter.com/Techuila__)
+
+### License
+
+Released under the [ISC License](LICENSE).
+
+---
