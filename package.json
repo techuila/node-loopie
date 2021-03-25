@@ -1,0 +1,31 @@
+{
+  "name": "node-loopie",
+  "version": "1.0.2",
+  "description": "Converts your files in a folder to an object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techuila/loopie.git"
+  },
+  "keywords": [
+    "object",
+    "loop",
+    "looper",
+    "loopie",
+    "loopfiles",
+    "file",
+    "files",
+    "node",
+    "node-loopie",
+    "nodeloopie"
+  ],
+  "author": "techuila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techuila/loopie/issues"
+  },
+  "homepage": "https://github.com/techuila/loopie#readme"
+}
