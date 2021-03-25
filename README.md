@@ -1,4 +1,4 @@
-# node-loopie [![NPM version](https://img.shields.io/npm/v/npm-install-global.svg?style=flat)](https://www.npmjs.com/package/node-loopie) [![NPM monthly downloads](https://img.shields.io/npm/dm/npm-install-global.svg?style=flat)](https://www.npmjs.com/package/node-loopiel) [![NPM total downloads](https://img.shields.io/npm/dt/npm-install-global.svg?style=flat)](https://www.npmjs.com/package/node-loopie)
+# node-loopie [![NPM version](https://img.shields.io/npm/v/node-loopie.svg?style=flat)](https://www.npmjs.com/package/node-loopie) [![NPM monthly downloads](https://img.shields.io/npm/dm/node-loopie.svg?style=flat)](https://www.npmjs.com/package/node-loopiel) [![NPM total downloads](https://img.shields.io/npm/dt/node-loopie.svg?style=flat)](https://www.npmjs.com/package/node-loopie)
 
 Converts your nodejs files in a folder to an object.
 
@@ -9,5 +9,5 @@ Converts your nodejs files in a folder to an object.
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save npm-install-global
+$ npm install --save node-loopie
 ```
