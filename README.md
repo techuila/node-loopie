@@ -6,6 +6,6 @@ Converts your nodejs files in a folder to an object.
 
 ## Installation
 
-```jsx
+```npm
 npm install node-loopie
 ```
