@@ -85,7 +85,7 @@ Loopie(__dirname, (file, fileName) => {
 
 **Axl Cuyugan**
 
-- [github/techuila](https://github.com/jonschlinkert)
+- [github/techuila](https://github.com/techuila)
 - [twitter/Techuila\_\_](https://twitter.com/Techuila__)
 
 ### License
