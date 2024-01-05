@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 techuila/node-loopie is built on the following main stack:
+
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -9,11 +10,13 @@ techuila/node-loopie is built on the following main stack:
 - [hub](http://hub.github.com/) – Git Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 techuila/node-loopie is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -21,14 +24,15 @@ techuila/node-loopie is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [techuila/node-loopie](https://github.com/techuila/node-loopie)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|25<br/>Tools used|11/15/23 <br/>Report generated|
+|26<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -133,9 +137,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (16)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (16)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -152,10 +156,11 @@ Full tech stack [here](/techstack.md)
 |[os](https://www.npmjs.com/os)|N/A|04/13/21|techuila |MIT|N/A|
 |[read](https://www.npmjs.com/read)|N/A|04/13/21|techuila |ISC|N/A|
 |[st](https://www.npmjs.com/st)|N/A|04/13/21|techuila |ISC|N/A|
+|[test](https://www.npmjs.com/test)|N/A|04/13/21|techuila |MIT|N/A|
 |[url](https://www.npmjs.com/url)|N/A|04/13/21|techuila |MIT|N/A|
 |[yo](https://www.npmjs.com/yo)|N/A|04/13/21|techuila |BSD-2-Clause|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
